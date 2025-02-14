@@ -1,4 +1,5 @@
-// postfixEvaluator.js
+// PostfixEvaluator.js
+
 // Import the Stack class
 const Stack = require('./Stack');
 
